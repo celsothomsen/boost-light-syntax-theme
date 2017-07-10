@@ -1,6 +1,6 @@
 {
-  "name": "default-light-syntax",
-  "description": "Default light syntax theme",
+  "name": "boost-syntax",
+  "description": "Boost Sytax Theme",
   "theme": "syntax",
   "styleSheets": ["default.less"]
 }
