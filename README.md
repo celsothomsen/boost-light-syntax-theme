@@ -1,5 +1,10 @@
 ## Boost Light Syntax Theme
 
+### Install
+```
+ipm install boost-light-syntax
+```
+
 ### Main
 ![alt text](https://s17.postimg.org/ucxi76wa7/Main.png "Screenshot of text")
 ### Lists
