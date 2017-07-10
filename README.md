@@ -1,14 +1,14 @@
 ## Boost Light Syntax Theme
 
 ### Main
-![alt text](https://s12.postimg.org/gzmf0w821/Main.png "Screenshot of normal text.")
+![alt text](https://s17.postimg.org/ucxi76wa7/Main.png "Screenshot of text")
 ### Lists
-![alt text](https://s12.postimg.org/rwnqpnutl/Lists.png "Screenshot of lists")
+[![Lists.png](https://s17.postimg.org/qajqul1nj/Lists.png)](https://postimg.org/image/v979945gb/)
 ### Links
-![alt text](https://s12.postimg.org/iq5g2dpl5/Links.png "Screenshot of links")
+[![Links.png](https://s17.postimg.org/hjcq0bicf/Links.png)](https://postimg.org/image/rtf4zk87v/)
 ### Horizontal Rules
-![alt text](https://s12.postimg.org/8nqnznao9/Horizontal_Rule.png "Screenshot of the horizontal rules")
+[![Horizontal Rule.png](https://s17.postimg.org/xp92mynj3/Horizontal_Rule.png)](https://postimg.org/image/k8c443d7f/)
 ### Code and Syntax
-![alt text](https://s12.postimg.org/b6cd0bweh/Code_and_Syntax.png "Screenshot of the horizontal rules")
+[![Code and Syntax.png](https://s17.postimg.org/hgsudheov/Code_and_Syntax.png)](https://postimg.org/image/nhqjak1az/)
 ### Blockquote
-![alt text](https://s12.postimg.org/56olwobm1/Blockquote.png "Screenshot of the Blockquote")
+[![Blockquote.png](https://s17.postimg.org/415to1673/Blockquote.png)](https://postimg.org/image/mthorm2l7/)
