@@ -1,6 +1,14 @@
 {
-  "name": "boost-syntax",
-  "description": "Boost Sytax Theme",
+  "name": "boost-light-syntax",
+  "description": "Boost Light Sytax Theme",
   "theme": "syntax",
+	"repository": {
+    "type": "git",
+    "url": "https://github.com/badian76/boost-syntax-theme"
+  },
+	"version": "0.0.1",
+  "engines": {
+    "inkdrop": "^3.7.0"
+  },
   "styleSheets": ["default.less"]
 }
